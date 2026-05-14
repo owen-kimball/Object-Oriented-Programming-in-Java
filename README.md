@@ -1,5 +1,3 @@
-# Object-Oriented Programming in Java
-
 This repository contains Java programming coursework focused on object-oriented programming concepts and class construction.
 
 Topics explored include:
